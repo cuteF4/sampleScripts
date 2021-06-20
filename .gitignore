@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.idea
+.vscode
+*.iml
+dist
+node_modules
+bower_components
+npm-debug.log
+sessions
+uploads
+upload/*
+*.log
+logs
+*.rdb
+*.php
+*.txt
+scripts/*.html
+scripts/js
+scripts/module
+scripts/font
+package-lock.json
+._*
+.*.swp
+.svn

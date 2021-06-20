@@ -1,0 +1,14 @@
+{
+  "name": "shopscripts",
+  "version": "1.0.0",
+  "description": "一些电商脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "xingfu.wu",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
